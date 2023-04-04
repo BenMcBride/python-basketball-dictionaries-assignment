@@ -67,4 +67,3 @@ print(player_objs) # testing challenge 3
 # testing ninja bonus
 players2 = Player.get_team(players)
 print(players2)
-print(Player.players_on_team)
